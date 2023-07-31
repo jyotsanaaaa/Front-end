@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.register{
-    background-color:rgb(179, 206, 223);
-}
+
 .main-heading{
     font-family: "Times New Roman", Times, serif;
     font-size: 40px;

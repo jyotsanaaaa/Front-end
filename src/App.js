@@ -1,12 +1,12 @@
-import Otp from "./pages/Otp";
+// import Otp from "./pages/Otp";
 // import Pagetwo from "./pages/Pagetwo";
-//  import Register from "./pages/Register";
+ import Register from "./pages/Register";
 
 
 function App() {
   return (
     <div>
-      <Otp />
+      <Register />
     </div>
   );
 }
